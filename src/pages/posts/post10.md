@@ -1,7 +1,7 @@
 ---
 layout: '../../layouts/BlogPost.astro'
 title: 'À la Confrontation des Extrêmes : Une Analyse Nécessaire pour préserver la Démocratie'
-date: 2024-30-6
+date: 2024-06-30
 image: '../../../public/images/anna.jpg'
 ---
 ![](../../../public/images/anna.jpg)
