@@ -1,0 +1,67 @@
+---
+import Base from "../layouts/Base.astro";
+const posts = await Astro.glob("./posts/*.md");
+const formatDate = (date: string) => {
+    const options = { year: "numeric", month: "long", day: "numeric" };
+    return new Date(date).toLocaleDateString("fr-FR", {
+        year: "numeric",
+        month: "long",
+        day: "numeric",
+    });
+};
+
+---
+
+<Base title="Welcome">
+    <div class="flex justify-center">
+        <img src="../public/images/dali.jpg" class="m-8 h-89 w-190" />
+    </div>
+
+    <div class="flex flex-wrap justify-center">
+        <img src="../public/images/gogh.jpg" class="m-2 h-48 w-96" />
+        <img src="../public/images/monet.jpg" class="m-2 h-48 w-96" />
+    </div>
+
+    <div class="flex justify-center flex-col items-center">
+        <div class="flex-auto m-8">
+            <div class="h-2 w-full md:w-96 text-center">
+                ___________________________________________________
+            </div>
+        </div>
+        <div class="flex m-2 md:w-96">
+            <p class="text-center text-2xl font-serif">
+                Je me suis soigneusement abstenu de tourner en dérision les
+                actions humaines, de les prendre en pitié ou en haine ; je n’ai
+                voulu que les comprendre.
+            </p>
+        </div>
+        <div class="m-2 text-lg font-serif">
+            <h5>Baruch Spinoza</h5>
+        </div>
+        <div class="flex m-2">
+            <div class="h-2 w-full md:w-96 text-center mb-9">
+                ___________________________________________________
+            </div>
+        </div>
+    </div>
+
+    <div class="m-10"></div>
+
+    <div>
+        <h1 class="text-4xl m-6 font-serif text-center"> Mes récents articles</h1>
+    </div>
+
+    <div class="flex flex-wrap justify-center">
+        {
+            posts.slice(0, 3).map((post, index) => (
+                <div key={index} class="py-4 border-b mb-4 mx-4 md:mx-8 w-80 md:w-96 justify-center">
+                    <a class="text-slate-950 font-serif hover:underline" href={post.url}>
+                        <h1 class="text-3xl mb-3">{post.frontmatter.title}</h1>
+                        <img src={post.frontmatter.image} class="w-full"></img>
+                    </a>
+                    <p class="font-serif text-center">{formatDate(post.frontmatter.date)}</p>
+                </div>
+            ))
+        }
+    </div>
+</Base>

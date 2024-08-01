@@ -1,0 +1,54 @@
+---
+interface Props {
+    title: string;
+}
+const { title } = Astro.props;
+import Footer from '../components/Footer.astro';
+import Navbar from '../components/Navbar.astro';
+---
+
+<!DOCTYPE html>
+<html lang="fr">
+    <head>
+        <title>{title} / Jasser blog</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <style>
+            @font-face {
+                font-family: 'Inter';
+                font-style: normal;
+                font-weight: 100 900;
+                font-display: swap;
+                src: url('/fonts/Inter-Regular.woff2') format('woff2');
+            }
+            @font-face {
+                font-family: 'Inter';
+                font-style: italic;
+                font-weight: 100 900;
+                font-display: swap;
+                src: url('/fonts/Inter-Italic.woff2') format('woff2');
+            }
+            @font-face {
+                font-family: 'Inter';
+                font-style: normal;
+                font-weight: 100 900;
+                font-display: swap;
+                src: url('/fonts/Inter-Bold.woff2') format('woff2');
+            }
+            body {
+                font-family: 'Inter', Papyrus,sans-serif;
+                margin: 0;
+                padding: 0;
+                background-color: #f9f9f9;
+                color: #333;
+            }
+        </style>
+    </head>
+
+    <body class="bg-amber-50">
+    <Navbar></Navbar>
+        <slot />
+
+        <Footer></Footer>
+    </body>
+</html>

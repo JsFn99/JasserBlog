@@ -1,0 +1,35 @@
+---
+import Base from "../../layouts/Base.astro";
+
+const posts = await Astro.glob("./*.md");
+
+const formatDate = (date: string) => {
+    const options = { year: "numeric", month: "long", day: "numeric" };
+    return new Date(date).toLocaleDateString("fr-FR", {
+        year: "numeric",
+        month: "long",
+        day: "numeric",
+    });
+};
+---
+
+<Base title="Mes articles">
+    <h1 class="m-6 text-6xl font-serif">Mes articles</h1>
+
+    <div class="inline-grid justify-center">
+        {
+            posts
+                .sort((a, b) => new Date(b.frontmatter.date) - new Date(a.frontmatter.date))
+                .map((post) => (
+                    <div class="flex grid py-4 border-b mb-4 m-8" key={post.frontmatter.date}>
+                        <a class="text-slate-950 font-serif hover:underline" href={post.url}>
+                            <h1 class="text-3xl mb-3 m-2">{post.frontmatter.title}</h1>
+                            <img class="w-96 h-45 m-2" src={post.frontmatter.image} alt={post.frontmatter.title}></img>
+                        </a>
+                        <p class="m-2">{formatDate(post.frontmatter.date)}</p>
+                    </div>
+                ))
+        }
+    </div>
+</Base>
+

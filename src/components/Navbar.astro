@@ -1,0 +1,84 @@
+---
+const items = [
+    {
+        title: "Acceuil",
+        path: "/",
+    },
+    {
+        title: "Mes articles",
+        path: "/posts",
+    },
+    {
+        title: "À propos",
+        path: "/about",
+    },
+];
+---
+
+<div class="bg-cyan-700 text-white">
+    <div
+        class="container mx-auto flex justify-between items-center py-4 px-6 md:px-0"
+    >
+        <a href="/">
+            <div class="font-bold text-lg">Esquisses Emotionnelles</div>
+        </a>
+        <div class="md:hidden">
+            <button
+                id="mobile-menu-btn"
+                class="p-2 focus:outline-none focus:bg-gray-800"
+            >
+                <svg
+                    class="w-6 h-6"
+                    fill="none"
+                    viewBox="0 0 24 24"
+                    stroke="currentColor"
+                >
+                    <path
+                        stroke-linecap="round"
+                        stroke-linejoin="round"
+                        stroke-width="2"
+                        d="M4 6h16M4 12h16m-7 6h7"></path>
+                </svg>
+            </button>
+        </div>
+        <ul class="hidden md:flex space-x-4">
+            {
+                items.map((item) => (
+                    <li key={item.title}>
+                        <a class="p-4 hover:bg-gray-800" href={item.path}>
+                            <strong>{item.title}</strong>
+                        </a>
+                    </li>
+                ))
+            }
+        </ul>
+    </div>
+    <!-- Mobile dropdown menu items -->
+    <div id="mobile-menu" class="md:hidden hidden bg-cyan-700">
+        <ul class="text-white">
+            {
+                items.map((item) => (
+                    <li key={item.title}>
+                        <a
+                            class="block py-2 px-4 hover:bg-gray-800"
+                            href={item.path}
+                        >
+                            <strong>{item.title}</strong>
+                        </a>
+                    </li>
+                ))
+            }
+        </ul>
+    </div>
+</div>
+
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+        const mobileMenuBtn = document.getElementById("mobile-menu-btn");
+        const mobileMenu = document.getElementById("mobile-menu");
+
+        mobileMenuBtn.addEventListener("click", function () {
+            mobileMenu.classList.toggle("hidden");
+        });
+    });
+</script>

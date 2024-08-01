@@ -1,0 +1,24 @@
+---
+import Base from "./Base.astro";
+const { title, date } = Astro.props.frontmatter;
+const formatDate = (date: string) => {
+    const options = { year: 'numeric', month: 'long', day: 'numeric' };
+    return new Date(date).toLocaleDateString("fr-FR", {
+        year: 'numeric',
+        month: 'long',
+        day: 'numeric'
+    });
+};
+---
+
+<Base title="Article">
+    <div class="flex justify-center">
+        <div class="block">
+            <h1 class="text-3xl m-4">{title}</h1>
+            <p class="m-4 mb-8">{formatDate(date)}</p>
+        <div class="prose m-4 block">
+            <slot />
+        </div>
+        </div>
+    </div>
+</Base>
