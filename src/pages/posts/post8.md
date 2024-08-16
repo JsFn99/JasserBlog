@@ -3,7 +3,6 @@ layout: '../../layouts/BlogPost.astro'
 title: 'La Crise des Valeurs Rationnelles'
 date: 2024-05-3
 image: '../../../public/images/moral.jpg'
---------------------------------------
 ---
 ![](../../../public/images/moral.jpg)
 
