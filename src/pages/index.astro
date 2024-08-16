@@ -1,5 +1,9 @@
 ---
 import Base from "../layouts/Base.astro";
+import { Image } from "astro:assets";
+import dali from '../images/dali.jpg';
+import gogh from '../images/gogh.jpg';
+import monet from '../images/monet.jpg'; 
 const posts = await Astro.glob("./posts/p*.md");
 const formatDate = (date: string) => {
     const options = { year: "numeric", month: "long", day: "numeric" };
@@ -14,12 +18,12 @@ const formatDate = (date: string) => {
 
 <Base title="Welcome">
     <div class="flex justify-center">
-        <img src="public/images/dali.jpg" class="m-8 h-89 w-190" />
+        <Image src={dali} class="m-8 h-89 w-190" alt="dali"/>
     </div>
 
     <div class="flex flex-wrap justify-center">
-        <img src="public/images/gogh.jpg" class="m-2 h-48 w-96" />
-        <img src="public/images/monet.jpg" class="m-2 h-48 w-96" />
+        <Image src={gogh} class="m-2 h-48 w-96" alt="gogh"/>
+        <Image src={monet} class="m-2 h-48 w-96" alt="monet"/>
     </div>
 
     <div class="flex justify-center flex-col items-center">

@@ -1,11 +1,13 @@
 ---
+import { Image } from "astro:assets";
+import dali from '../images/dali.jpg';
 import Base from "../layouts/Base.astro";
 ---
 
 <Base title="A propos">
 	<div>
 		<div class="flex justify-center">
-			<img src="public/images/dali.jpg" class="m-8 h-89 w-220" />
+			<Image src={dali} class="m-8 h-89 w-220" alt="dali"/>
 		</div>
 		<div class="m-4">
 			<h1 class="text-6xl m-4">À propos</h1>
