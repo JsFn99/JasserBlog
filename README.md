@@ -1,6 +1,6 @@
 # My Blog
 
-Welcome to my blog, built with [Astro](https://astro.build) and hosted on [Vercel](https://vercel.com). This site features articles on various topics that interest me, including [technology, poetry, politics, etc.].
+Welcome to my blog, built with [Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) and hosted on ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white). This site features articles on various topics that interest me, including [technology, poetry, politics, etc.].
 
 You can visit my blog on [My blog](https://jasser-blog.vercel.app/)
 
