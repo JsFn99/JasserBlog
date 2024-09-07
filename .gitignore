@@ -22,3 +22,8 @@ pnpm-debug.log*
 
 # jetbrains setting folder
 .idea/
+
+# Ignore specific articles and images
+src/pages/articles/post*.md
+src/images/
+public/images/
