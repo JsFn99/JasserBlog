@@ -26,5 +26,5 @@ pnpm-debug.log*
 # Ignore specific articles and images
 blog.png
 src/pages/articles/post*.md
-src/images/
-public/images/
+#src/images/
+#public/images/
