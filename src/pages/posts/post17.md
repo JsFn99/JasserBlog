@@ -1,7 +1,7 @@
 ---
 layout: '../../layouts/BlogPost.astro'
 title: 'L’Identité Dissoute dans le Marché Mondial'
-date: 2024-09-14
+date: 2024-9-14
 image: '../../../public/images/buy.jpg'
 ---
 ![](../../../public/images/buy.jpg)
