@@ -1,7 +1,7 @@
 ---
 layout: '../../layouts/BlogPost.astro'
 title: 'Le Poids du Néant et la Lumière de l’Absurde : De Cioran à Camus'
-date: 2024-05-2
+date: 2024-09-22
 image: '../../../public/images/camus.jpg'
 ---
 ![](../../../public/images/camus.jpg)
