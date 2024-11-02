@@ -2,9 +2,9 @@
 layout: '../../layouts/BlogPost.astro'
 title: Entre Souffrance et Discernement
 date: 2023-08-13
-image: '../../../public/images/holo.jpg'
+image: 'images/holo.jpg'
 ---
-![](../../../public/images/holo.jpg)
+![](images/holo.jpg)
 
 Depuis quand, dans l’histoire tourmentée des hommes, la violence  infligée a-t-elle été une sage conseillère ? Les cicatrices gravées dans  les mémoires sont un miroir étrange, réfléchissant des vérités  paradoxales. Les victimes, emprisonnées dans leur propre drame, dansent  sur le fil ténu qui sépare la justice de l’injustice, l’objectivité de  l’aveuglement. Dans le tumulte des émotions, on peut aisément confondre  ce qui est intrinsèquement injuste avec ce qui l’est seulement à travers  le prisme déformé de sa propre expérience.
 

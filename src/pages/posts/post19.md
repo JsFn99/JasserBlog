@@ -2,9 +2,9 @@
 layout: '../../layouts/BlogPost.astro'
 title: 'Le Poids du Néant et la Lumière de l’Absurde : De Cioran à Camus'
 date: 2024-09-22
-image: '../../../public/images/camus.jpg'
+image: 'images/camus.jpg'
 ---
-![](../../../public/images/camus.jpg)
+![](images/camus.jpg)
 
 Adolescence et nihilisme, en voilà une danse dangereuse,  presque inévitable pour certains. Ma rencontre avec Emile Cioran, ce  poète du désespoir, en fut le témoin. Il y a chez lui une manière d’en  finir avec la vie dès son commencement, de condamner d’un trait brutal  la naissance comme un mal irréversible. Ce n’est pas la mort qui le  tourmente, mais cette première chute, celle d’être né, d’être projeté  dans un monde sans appel. « Avoir commis tous les crimes, sauf celui  d’être père » disait-il, comme s’il énonçait une vérité froide, figée,  impossible à contourner. Même le suicide, dans cette logique glacée,  perd tout sens. Cioran, fidèle à lui-même, affirmait que l’on meurt  toujours trop tard. Rien ne sert de hâter l’inévitable.
 

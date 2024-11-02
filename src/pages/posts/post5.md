@@ -2,9 +2,9 @@
 layout: '../../layouts/BlogPost.astro'
 title: 'Shadows of Echoes: Reckoning with History and Illusions'
 date: 2023-08-05
-image: '../../../public/images/colomb.jpg'
+image: 'images/colomb.jpg'
 ---
-![](../../../public/images/colomb.jpg)
+![](images/colomb.jpg)
 
 Should we pay homage to slavery? Certainly not. The concept itself  appears preposterous, akin to the grotesque shapes cast by the deepest  recesses of history’s shadows. Yet, this question unfurls its tendrils  beyond the surface, unveiling a labyrinthine complexity interwoven with  time, memory, and the very essence of human consciousness. As we stand  at this juncture, contemplating the act of erasing the tangible imprints  of a past marred by suffering, we find ourselves entangled within the  threads of illusion—an optical illusion promising to extinguish the  flames of hatred by obliterating the monuments that once bore witness to  its existence.
 

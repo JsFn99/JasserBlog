@@ -2,9 +2,9 @@
 layout: '../../layouts/BlogPost.astro'
 title: 'L’Identité Dissoute dans le Marché Mondial'
 date: 2024-9-14
-image: '../../../public/images/buy.jpg'
+image: 'images/buy.jpg'
 ---
-![](../../../public/images/buy.jpg)
+![](images/buy.jpg)
 
 Le monde moderne, soumis aux lois impitoyables du  capitalisme globalisé, dépeint un tableau sombre où l’existence humaine  s’effrite sous la pression d’une machine vorace, perpétuellement en  quête d’expansion. Loin de s’arrêter à la simple régulation des échanges  économiques, cette force invisible et omniprésente s’insinue dans l’âme  humaine, modèle les désirs, gouverne les ambitions, jusqu’à effacer les  contours mêmes de ce qui nous rend humain. Dans ce système sans répit,  l’individu, autrefois membre d’une communauté, se transforme en acteur  solitaire, réduit à une lutte perpétuelle pour une place dans l’ordre  implacable de la consommation.
 

@@ -2,9 +2,9 @@
 layout: '../../layouts/BlogPost.astro'
 title: 'La Crise des Valeurs Rationnelles'
 date: 2024-05-3
-image: '../../../public/images/moral.jpg'
+image: 'images/moral.jpg'
 ---
-![](../../../public/images/moral.jpg)
+![](images/moral.jpg)
 
 Depuis l’éclatante proclamation de Nietzsche, celle où il osait proclamer que « Dieu est mort », le monde occidental s’est engouffré dans un tumulte de reconfiguration, dans une danse effrénée avec ses propres valeurs. L’effondrement des repères traditionnels, en particulier religieux, a ouvert la voie à une libération intellectuelle, à une quête fiévreuse de nouvelles assises éthiques, sécularisées et rationalistes. Pourtant, en ce temps présent, nous sommes témoins d’un examen sans cesse croissant de ces valeurs érigées en rempart contre les anciens systèmes moraux.
 

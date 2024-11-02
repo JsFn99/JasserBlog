@@ -2,9 +2,9 @@
 layout: '../../layouts/BlogPost.astro'
 title: 'Au-delà de l’égo : défendre ses droits, c’est défendre quoi ?'
 date: 2024-07-31
-image: '../../../public/images/right.jpg'
+image: 'images/right.jpg'
 ---
-![](../../../public/images/right.jpg)
+![](images/right.jpg)
 
 Je ne me rappelle plus par quel hasard j’étais venu à trouver le  sujet de philosophie de France de l’année 2017 : “Défendre ses droits  est-ce défendre ses intérêts ?” Depuis, cette interrogation demeure dans  mes pensées, car elle dévoile l’essence même des tumultes  socio-politiques contemporains.
 

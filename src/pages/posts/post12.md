@@ -2,9 +2,9 @@
 layout: '../../layouts/BlogPost.astro'
 title: 'L’Amour en Absence d’Adversité : Une Illusion de Perfection'
 date: 2024-07-20
-image: '../../../public/images/lov.jpg'
+image: 'images/lov.jpg'
 ---
-![](../../../public/images/lov.jpg)
+![](images/lov.jpg)
 
 Imaginez que l’amour de Roméo et Juliette, libéré de toutes les  entraves, se déploie sans contraintes, que leurs familles s’étreignent  et que les ennemis se réconcilient. En cette utopie, Tybalt et Roméo  seraient des frères d’armes, les bénédictions pleuvraient sur l’union  des deux jouvenceaux, et frère Laurent, le bon frère Laurent, ne serait  qu’un spectateur bienveillant, au lieu d’être le metteur en scène d’une  union secrète. Juliette serait promise non à un tombeau, mais à un  bonheur sans ombre. Ici, tout irait pour le mieux dans le meilleure des  mondes possibles.
 

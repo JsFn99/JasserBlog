@@ -2,9 +2,9 @@
 layout: '../../layouts/BlogPost.astro'
 title: L’énigmatique question de l’Amour
 date: 2023-08-06
-image: '../../../public/images/love.jpg'
+image: 'public/images/love.jpg'
 ---
-![](../../../public/images/love.jpg)
+![](images/love.jpg)
 
 L’énigme s’étend, telle une mer sans fin, murmurant ses mystères à  travers les âges. La question insoluble de pourquoi nous aimons, voilà  un défi qui, telle une étoile inaccessible, continue d’attirer les  esprits avides de compréhension. J’estime qu’il est sage de se pencher  dans un premier temps, sur les toiles tissées par des esprits vifs tels  que Arthur Schopenhauer et Vladimir Jankélévitch. À travers leurs  prismes distincts, nous nous aventurons à explorer les profondeurs des  motifs enfouis qui donnent naissance à ce sentiment complexe, ce  tourbillon émotionnel dont la source demeure enchanteresse et  incertaine.
 

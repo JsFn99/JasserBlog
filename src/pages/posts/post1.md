@@ -2,9 +2,9 @@
 layout: '../../layouts/BlogPost.astro'
 title: La Quête du Sens dans les rues de Casablanca
 date: 2023-08-10
-image: '../../../public/images/casa.jpg'
+image: 'images/casa.jpg'
 ---
-![](../../../public/images/casa.jpg)
+![](images/casa.jpg)
 
 Sous le ciel impitoyable de Casablanca, le soleil projette ses rayons  ardents sur les larges avenues et les places animées de la ville. Les  rues, vastes et définies avec une absence de projection, s’ouvrent  brusquement à des lignes de tramway interminables, comme des fils de fer  barbelés égarés dans une cité déjà surchargée d’existences. Le tout  offre un contraste saisissant avec le tumulte de la vie moderne qui s’y  déroule. Connue pour son urbanisme moderne et sa quête effrénée de  progrès, cette cité se présente comme un théâtre où un homme s’engage  dans une exploration perpétuelle : la quête du sens.
 

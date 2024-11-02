@@ -2,9 +2,9 @@
 layout: '../../layouts/BlogPost.astro'
 title: 'La Conception Socratique de l’Amour'
 date: 2024-9-20
-image: '../../../public/images/alcib.jpg'
+image: 'images/alcib.jpg'
 ---
-![](../../../public/images/alcib.jpg)
+![](images/alcib.jpg)
 
 Dans "Le Banquet", Platon orchestre une scène saisissante entre Socrate et Alcibiade, où la question de la beauté s’impose. Alcibiade, auréolé de sa splendeur physique, propose à Socrate un échange insolite : unir leurs corps dans l’espoir que la beauté et la sagesse puissent se fondre, comme si la beauté du corps pouvait s’acquérir comme un bien tangible, tout comme la sagesse. Il croit que sa propre perfection physique peut être le prix de la sagesse de Socrate. Mais ce dernier, avec la sagesse sereine qui est sienne, refuse cette transaction, dévoilant une vérité plus profonde et subtile sur la nature de l’amour.
 

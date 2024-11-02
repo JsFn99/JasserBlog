@@ -2,9 +2,9 @@
 layout: '../../layouts/BlogPost.astro'
 title: 'Le Capitalisme au Maroc : Promesses et Paradoxes'
 date: 2024-08-23
-image: '../../../public/images/capital.jpg'
+image: 'images/capital.jpg'
 ---
-![](../../../public/images/capital.jpg)
+![](images/capital.jpg)
 
 Si en Amérique, la critique du capitalisme se transforme  facilement en accusation publique, l’auteur étant condamné pour soutenir  une idéologie communiste perçue comme maléfique. Et qu’en France, le  système politique oscille toujours entre un socialisme historique,  fondement de sa société, et un capitalisme universel, garant de sa  survie. Au Maroc, en revanche, les notions de capitalisme et de  communisme semblent demeurer aussi étrangères qu’abstraites.
 

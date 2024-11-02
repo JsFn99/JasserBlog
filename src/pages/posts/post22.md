@@ -2,9 +2,9 @@
 layout: '../../layouts/BlogPost.astro'
 title: 'Les Illusions Perdues de Gatsby'
 date: 2024-10-26
-image: '../../../public/images/gatsby.jpg'
+image: 'images/gatsby.jpg'
 ---
-![](../../../public/images/gatsby.jpg)
+![](images/gatsby.jpg)
 
 Je me souviens de cette première rencontre avec Gatsby le  Magnifique, ce roman de Fitzgerald qui, à mes douze ans, s’était  infiltré dans mon esprit comme un rêve étincelant. À cet âge, l’histoire  m’apparaissait pleine de mystère, avec des éclats de grandeur presque  insaisissables. Gatsby, ce personnage aux contours flous, portait en lui  cette persévérance inflexible, ce charme indéfinissable. Il incarnait,  pour l’enfant que j’étais, un idéal romantique. Cette passion, ce besoin  de renverser ciel et terre pour l’être aimé, m’apparaissait comme la  forme d’amour la plus authentique, peut-être la seule qui méritait  d’être vécue.
 

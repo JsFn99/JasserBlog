@@ -2,9 +2,9 @@
 layout: '../../layouts/BlogPost.astro'
 title: The Dichotomy of Money and Happiness
 date: 2023-08-05
-image: '../../../public/images/money.jpg'
+image: 'public/images/money.jpg'
 ---
-![](../../../public/images/money.jpg)
+![](images/money.jpg)
 
 Undoubtedly, the allure of money and the pursuit of happiness are  inextricably woven into the tapestry of human desires. Money, akin to a  siren’s song, beckons us with promises of joy, and it is a desire as  potent and fervent as any other we harbor. Selfishness, much like this  alluring currency, stands as a primal motive, igniting the flames of  action within us. Among the constellation of motivations, be it charity,  narcissism, masochism, or even fear, money takes the lead, asserting  its dominance without hesitation.
 

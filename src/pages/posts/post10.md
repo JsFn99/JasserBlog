@@ -2,9 +2,9 @@
 layout: '../../layouts/BlogPost.astro'
 title: 'À la Confrontation des Extrêmes : Une Analyse Nécessaire pour préserver la Démocratie'
 date: 2024-06-30
-image: '../../../public/images/anna.jpg'
+image: 'images/anna.jpg'
 ---
-![](../../../public/images/anna.jpg)
+![](images/anna.jpg)
 
 La montée des extrêmes politiques en Europe et aux États-Unis est un  phénomène inquiétant qui s’invite dans notre époque tourmentée. Les  partis populistes, nationalistes et parfois ouvertement xénophobes,  gagnent du terrain, menaçant les fragiles équilibres de la démocratie et  la cohésion sociale. Pour en saisir l’essence, il est nécessaire de  revisiter les analyses de Hannah Arendt dans « Les origines du  totalitarisme ». En explorant les conditions qui ont permis l’émergence  des régimes totalitaires au XXe siècle, Arendt nous éclaire sur les  ombres de notre présent.
 

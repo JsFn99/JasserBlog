@@ -2,9 +2,9 @@
 layout: '../../layouts/BlogPost.astro'
 title: 'Le Paradoxe du Génie : Quand l’Intelligence Fléchit sous le Poids de la Bêtise'
 date: 2024-08-19
-image: '../../../public/images/schop.jpg'
+image: 'images/schop.jpg'
 ---
-![](../../../public/images/schop.jpg)
+![](images/schop.jpg)
 
 " Le seul aspect de la femme révèle qu’elle n’est destinée ni aux grands travaux de l’intelligence, ni aux grands travaux matériels. Elle paie sa dette à la vie non par l’action mais par la souffrance, les douleurs de l’enfantement, les soins inquiets de l’enfance ; elle doit obéir à l’homme, être une compagne patiente qui le rassérène. Elle n’est faite ni pour les grands efforts, ni pour les peines ou les plaisirs excessifs ; sa vie peut s’écouler plus silencieuse, plus insignifiante et plus douce que celle de l’homme, sans qu’elle soit, par nature, ni meilleure ni pire."
 

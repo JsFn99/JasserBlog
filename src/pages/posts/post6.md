@@ -2,9 +2,9 @@
 layout: '../../layouts/BlogPost.astro'
 title: 'Lettre à moi même'
 date: 2024-04-10
-image: '../../../public/images/think.jpg'
+image: 'images/think.jpg'
 ---
-![](../../../public/images/think.jpg)
+![](images/think.jpg)
 
 À qui, parmi les moi multiples qui se réfléchissent dans les eaux  mouvantes du temps, devrais-je  m’adresser, je l’ignore. Est-ce au moi  d’aujourd’hui, en proie aux tourments de l’existence adulte, ou bien au  moi enfant, qui autrefois rêvait de devenir ce que je suis devenu, avec  ses illusions intactes et sa candeur oubliée ? Peut-être que chacun de  ces moi, empreints de leurs propres vérités et illusions, mérite  d’entendre ces quelques mots qui résonnent comme un écho dans l’abîme de  l’âme.
 

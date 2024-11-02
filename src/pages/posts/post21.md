@@ -2,9 +2,9 @@
 layout: '../../layouts/BlogPost.astro'
 title: 'Réflexions d’une Salle de Classe'
 date: 2024-10-17
-image: '../../../public/images/class.jpg'
+image: 'images/class.jpg'
 ---
-![](../../../public/images/class.jpg)
+![](images/class.jpg)
 
 Mon parcours académique long et varié m’a fait atterrir par quelques  hasards dans un cours de marketing, discipline que, quiconque me  connaît, saurait mon mal à l’apprécier. Je me rappelle ces journées  interminables, où la lumière blanche de la salle, filtrée par les stores  usés, venait renforcer l’ennui latent qui pesait sur nous. Vous vous  doutez bien que je ne vais pas vous retranscrire le contenu du cours, ni  même vous en vanter les mérites. Ce qui m’a interpellé durant ces  heures étirées comme un jour d’été sans brise, c’est cette atmosphère  presque suffocante qui régnait alors que le professeur expliquait, avec  une insouciance glaciale, les diverses techniques que le capitalisme  avait enfantées pour nous pousser, toujours et encore, à consommer plus.
 

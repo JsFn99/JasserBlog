@@ -2,9 +2,9 @@
 layout: '../../layouts/BlogPost.astro'
 title: 'La Quête d’Émancipation féminine Contre les Contraintes de Dépendance et de Subordination'
 date: 2024-07-5
-image: '../../../public/images/girl.jpg'
+image: 'images/girl.jpg'
 ---
-![](../../../public/images/girl.jpg)
+![](images/girl.jpg)
 
 Le Maroc, terre riche d’une histoire millénaire et d’une diversité  culturelle éblouissante, fait face à des défis profonds en matière de  droits des femmes. Dans ce pays où les traditions ancestrales imprègnent  chaque aspect de la vie, les progrès en matière d’égalité des sexes  demeurent trop souvent modestes. Les avancées, bien que réelles,  semblent dépendre largement des liens étroits avec l’Europe, et  notamment la France.
 

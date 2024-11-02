@@ -2,9 +2,9 @@
 layout: '../../layouts/BlogPost.astro'
 title: 'Réflexion sur la Liberté dans le Maroc d’Aujourd’hui'
 date: 2024-05-2
-image: '../../../public/images/civil.jpg'
+image: 'public/images/civil.jpg'
 ---
-![](../../../public/images/civil.jpg)
+![](images/civil.jpg)
 
 Dans l’atmosphère étouffante d’un Maroc aux fragilités croissantes,  où les vestiges d’une religiosité vacillante semblent constituer le  dernier rempart d’une société en déliquescence, la liberté apparaît  comme un mirage éloigné, déformé par les distorsions du pouvoir. Dans ce  théâtre absurde où les institutions démocratiques ne sont que des  masques, la désobéissance civile émerge comme une voix discordante, une  dissonance dans le concert des apparences.
 

@@ -2,9 +2,9 @@
 layout: '../../layouts/BlogPost.astro'
 title: 'Football : Équilibre entre Absurde et Passion'
 date: 2023-08-07
-image: '../../../public/images/foot.jpg'
+image: 'images/foot.jpg'
 ---
-![](../../../public/images/foot.jpg)
+![](images/foot.jpg)
 
 La foule exulte dans les gradins, les chants et les cris se mêlent  dans une dissonance enivrante. Le stade devient le théâtre d’une danse  frénétique, où onze hommes en maillot se démènent pour maîtriser un  ballon qui semble parfois échapper à toute logique. Le football, cet  étrange tourbillon d’efforts et d’incertitudes, s’érige en une métaphore  saisissante de l’existence humaine, à la fois absurde et passionnée.
 

@@ -2,9 +2,9 @@
 layout: '../../layouts/BlogPost.astro'
 title: 'Mirage de la Vérité'
 date: 2024-11-2
-image: '../../../public/images/truth.jpg'
+image: 'images/truth.jpg'
 ---
-![](../../../public/images/truth.jpg)
+![](images/truth.jpg)
 
 Que la vérité est fragile. Nous la tenons pour acquise, en croyant qu’un événement survenu, ou au contraire absent, existe indubitablement. Et pourtant, il suffirait de le dénigrer pour que s’efface son attachement au réel. Imaginons que deux personnes, ayant traversé la même histoire, s’en retournent en rapporter deux versions divergentes, parfois même opposées : où se niche la vérité, alors, dans ces récits ?
 Supposons que l’un des deux témoins dise vrai, l’autre non. Peu importe. Les deux “vérités” s’équivalent, car personne ne peut les contredire. La distinction entre le vrai et le faux échappe ; ils possèdent chacun leur légitimité propre. Même si l’un ment volontairement, chaque récit porte en lui une part de vérité personnelle, façonnée par le vécu, modelée par l’interprétation, parfois même décrétée par la volonté. Au fond, il n’en reste qu’un fragment d’une réalité plus vaste. Et faute de pouvoir trancher entre ces récits, ils coexistent, facettes éparses d’une expérience commune, mais éminemment plurielle. Ainsi, la vérité s’efface dans un réseau d’images individuelles, chacune se voulant une version possible de la réalité, sans certitude de l’authenticité.

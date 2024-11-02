@@ -2,9 +2,9 @@
 layout: '../../layouts/BlogPost.astro'
 title: 'Se Perdre en Chemin : Vers Quel Sens ?'
 date: 2024-10-12
-image: '../../../public/images/rode.jpg'
+image: 'images/rode.jpg'
 ---
-![](../../../public/images/rode.jpg)
+![](images/rode.jpg)
 
 Dans le parcours d’une vie, il vient un jour où l’on se  rend compte que les chemins tracés, les repères que l’on croyait  solides, ne sont que des illusions. Nous marchons longtemps avec la  conviction que chaque direction est une réponse, un sens donné à notre  existence. Mais il suffit d’un instant pour que tout vacille. L’angoisse  de se perdre, de ne plus savoir où poser le pied, nous étreint.  Pourtant, c’est là, dans cette errance, que se révèle peut-être une  vérité plus profonde. Peut-on, en acceptant de se perdre, retrouver une  direction ? Cette question, posée au seuil du vide, n’est pas un appel  au renoncement. C’est une invitation à réinventer le sens même de ce que  signifie avancer.
 

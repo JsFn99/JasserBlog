@@ -2,9 +2,9 @@
 layout: '../../layouts/BlogPost.astro'
 title: 'Quand le passé nous aveugle : l’adulation des traditions, un chemin funeste'
 date: 2024-08-14
-image: '../../../public/images/window.jpg'
+image: 'images/window.jpg'
 ---
-![](../../../public/images/window.jpg)
+![](images/window.jpg)
 
 La nostalgie, fardeau léger et trompeur, nous hante par  moment comme une ombre insistante. Elle n’est pas simplement un regard  en arrière, mais un retour à des temps révolus, une quête d’un bonheur  disparu qui nous trompe avec des souvenirs embellis. Ce sentiment est  une fuite douce mais fatale, un moyen de se réfugier dans des souvenirs  déformés pour échapper aux duretés du présent. Nous croyons que le passé  était plus simple, plus pur, alors que ce n’était qu’une autre forme  d’illusion, façonnée par notre désir de trouver du sens dans un monde  qui en est dépourvue.
 

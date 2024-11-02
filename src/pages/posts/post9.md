@@ -2,9 +2,9 @@
 layout: '../../layouts/BlogPost.astro'
 title: 'Éloge de l’Amour Inconditionnel : Une Perspective Jankélévitchienne'
 date: 2024-05-25
-image: '../../../public/images/jank.jpg'
+image: 'images/jank.jpg'
 ---
-![](../../../public/images/jank.jpg)
+![](images/jank.jpg)
 
 En lisant les écrits de Vladimir Jankélévitch, je me retrouve toujours face à une vision de l’amour qui transcende les simples conventions et les attentes communes. C’est une vision qui résonne profondément en moi, une conception de l’amour qui colle intimement à ma propre perception de ce sentiment insondable. Les citations de Jankélévitch m’entraînent dans une compréhension de l’amour à la fois mystérieuse et profondément touchante, évoquant les grandes envolées du romantisme tout en ancrant ses réflexions dans une rigueur philosophique indéniable.
 
