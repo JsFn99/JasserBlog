@@ -1,6 +1,6 @@
 ---
 layout: '../../layouts/BlogPost.astro'
-title: 'Réflexion sur l’gitAttachement dans un Monde de Détachement'
+title: 'Réflexion sur l’Attachement dans un Monde de Détachement'
 date: 2024-11-6
 image: '../../../public/images/letgo.jpg'
 ---
